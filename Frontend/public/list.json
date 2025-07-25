@@ -1,0 +1,124 @@
+[
+    {
+         "id":1,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+        
+        
+    },
+    {
+        "id":2,
+        "name":"Current Affairs 2025 ",
+        "title":"Latest headlines decoded — covering news, analysis, and global updates in one place.",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e8ac9e49-532c-4f83-a223-f95a71006579.png"
+    },
+    {
+        "id":3,
+        "name":"Beginner's Cookbook",
+        "title":"Learn to cook effortlessly with beginner-friendly recipes and clear instructions",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81RmLgVCVlL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":4,
+        "name":"The intelligent Investor",
+        "title":"Learn the basics of investing, stock markets, and building long-term financial wealth.",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://book2action-5d2aff0.divio-media.net/filer_public/4d/4d/4d4dff4d-f349-4829-96cf-d070b10a5537/the_intelligent_investor.png"
+    },
+    {
+        "id":5,
+        "name":"Learn French",
+        "title":"Master basic French with practical phrases, grammar rules, and fun exercises",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/61L7J59jX8L._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":6,
+        "name":"World History",
+        "title":"A journey through time — from ancient empires to modern global movements",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwETqbaE7UX7terJTLuhDTdxRzVOvgO8XEg&s"
+    },
+    {
+        "id":7,
+        "name":"Wuthering Heights",
+        "title":" A tale of obsessive love,revenge,and tragedy,spanning generations of emotional turmoil",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ2_9rgX-SjktxtAUxGYvXw_54ax3MDWofnA&s"
+    },
+    {
+        "id":8,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"xxx",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":9,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"xxx",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":10,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"xxx",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":11,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"akjso",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":12,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"aoa",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":13,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"jhsq",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":14,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"akqja",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    },
+    {
+        "id":15,
+        "name":"101 Bedtime Stories",
+        "title":"A magical collection of short, heartwarming tales to calm young minds before sleep",
+        "price":"$0",
+        "category":"akqjsq",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN6ZGuWOscvejVeUDnMBixFVI28vwEelSDg&s"
+    }
+]
