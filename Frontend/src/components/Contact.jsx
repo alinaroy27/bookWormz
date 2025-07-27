@@ -13,13 +13,23 @@ const Contact = () => {
 
   const onSubmit = (data) => {
     console.log("Contact Form Submitted:", data);
+    // Simulate form submission delay
+    setTimeout(() => {
+      navigate("/");
+    }, 1000);
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-pink-100 dark:bg-slate-900 transition-colors duration-300 px-4 py-8">
-      <div className="bg-white dark:bg-slate-800 rounded-xl shadow-2xl p-8 md:p-12 w-full max-w-md relative text-black dark:text-white transition-all duration-300">
+    <div className="min-h-screen flex items-center justify-center bg-base-100 text-base-content px-4 py-8 relative overflow-hidden">
 
-        {/* ❌ Close Button */}
+      {/* Optional translucent background overlay */}
+      <div className="absolute inset-0 dark:bg-slate-800 backdrop-blur-sm z-0"></div>
+
+      {/* Contact Form Card */}
+      <div className="bg-base-200 rounded-xl shadow-2xl p-8 md:p-12 w-full max-w-md relative z-10 transition-transform duration-300 transform hover:scale-[1.02] border border-white">
+
+
+        {/* Close Button */}
         <button
           className="btn btn-sm btn-circle btn-ghost absolute right-4 top-4 text-xl text-gray-500 dark:text-gray-300 hover:text-red-500"
           onClick={() => navigate("/")}
@@ -37,7 +47,7 @@ const Contact = () => {
         <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
           {/* Name Field */}
           <div>
-            <label className="block font-medium mb-1 text-gray-700 dark:text-gray-200">Name</label>
+            <label className="block font-medium mb-1 text-gray-700 dark:text-gray-200 text-xl">Name</label>
             <input
               type="text"
               placeholder="Your name"
@@ -51,7 +61,7 @@ const Contact = () => {
 
           {/* Email Field */}
           <div>
-            <label className="block font-medium mb-1 text-gray-700 dark:text-gray-200">Email</label>
+            <label className="block font-medium mb-1 text-gray-700 dark:text-gray-200 text-xl">Email</label>
             <input
               type="email"
               placeholder="you@example.com"
@@ -65,7 +75,7 @@ const Contact = () => {
 
           {/* Message Field */}
           <div>
-            <label className="block font-medium mb-1 text-gray-700 dark:text-gray-200">Message</label>
+            <label className="block font-medium mb-1 text-gray-700 dark:text-gray-200 text-xl">Message</label>
             <textarea
               placeholder="Type your message..."
               className="w-full border border-gray-300 dark:border-gray-600 px-4 py-2 rounded-md bg-white dark:bg-slate-700 text-black dark:text-white placeholder-gray-500 dark:placeholder-gray-400 resize-none h-28 focus:outline-none focus:ring-2 focus:ring-pink-500 transition"

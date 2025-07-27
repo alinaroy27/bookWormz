@@ -28,7 +28,7 @@ function Banner() {
   <input type="email" placeholder="Enter valid Email Addresss" required  />
    
 </label>
-<button className="btn btn-secondary">Button</button>
+<button className="btn btn-secondary">Get Started</button>
               </div>
             </div>
             <div className="order-1 w-full md:w-1/2">
